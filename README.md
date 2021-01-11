@@ -1,4 +1,9 @@
 ### Hi there 👋
+### Comp Sci ungraduate at SFSU
+###🔭 I’m currently working building games with js & Phaser 3 and a few responsive websites / web applications
+### 🌱 I’m currently learning Kotlin android development and React Native hybrid app development
+
+
 
 <!--
 **lushbough/lushbough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
