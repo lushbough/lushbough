@@ -1,6 +1,7 @@
 ### Hi there 👋
 ### Comp Sci ungraduate at SFSU
-###🔭 I’m currently working building games with js & Phaser 3 and a few responsive websites / web applications
+### 💬 I'm currently seeking a Summer internship in web/software development
+### 🔭 I’m currently working building games with js & Phaser 3 and a few responsive websites / web applications
 ### 🌱 I’m currently learning Kotlin android development and React Native hybrid app development
 
 
