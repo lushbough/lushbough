@@ -1,6 +1,6 @@
 ### Hi there 👋
-### personal site https://lushbough.github.io/lushbough-site/ with links to projects
 ### play my latest JS project PokeBlaster: https://lushbough.github.io/runGame/
+### personal site https://lushbough.github.io/lushbough-site/ with links to projects
 ### github for PokeBlaster here: https://github.com/lushbough/pokeblaster
 ### Comp Sci ungraduate at San Francisco State University
 ### 💬 I'm currently seeking a Summer internship in web or software development
